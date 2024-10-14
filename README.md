@@ -2,9 +2,10 @@
 
 This repository contains solutions from [Leetcode](https://leetcode.com/) problems solved by myself
 
-| #   | Title                                                                 | Solution                                              | Difficulty |
-| --- | --------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                     | [Go](./golang/two-sum/two_sum.go)                     | Easy       |
-| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)     | [Go](./golang/add-two-numbers/add_two_numbers.go)     | Medium     |
-| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](./golang/palindrome-number/palindrome_number.go) | Easy       |
-| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)   | [Go](./golang/roman-to-integer/roman_to_integer.go)   | Easy       |
+| #   | Title                                                                                                                          | Solution                                                                                                        | Difficulty |
+| --- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                              | [Go](./golang/two-sum/two_sum.go)                                                                               | Easy       |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                              | [Go](./golang/add-two-numbers/add_two_numbers.go)                                                               | Medium     |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Go](./golang/longest-substring-without-repeating-characters/longest_substring_without_repeating_characters.go) | Medium     |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                          | [Go](./golang/palindrome-number/palindrome_number.go)                                                           | Easy       |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                            | [Go](./golang/roman-to-integer/roman_to_integer.go)                                                             | Easy       |
